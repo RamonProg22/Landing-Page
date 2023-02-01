@@ -1,0 +1,1 @@
+Esse é um projeto simples de Landing Page, onde minhas habilidades ainda nçao estavam em um bom nivel
